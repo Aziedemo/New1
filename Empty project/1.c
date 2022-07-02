@@ -3,4 +3,5 @@
 int main(){
     printf("hello world %i",Word());
     Error();
+    Error();
 }
